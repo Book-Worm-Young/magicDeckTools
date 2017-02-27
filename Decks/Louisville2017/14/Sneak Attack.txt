@@ -1,0 +1,28 @@
+2 Jace, the Mind Sculptor
+4 Emrakul, the Aeons Torn
+4 Griselbrand
+4 Ponder
+3 Preordain
+4 Show and Tell
+4 Brainstorm
+4 Force of Will
+4 Spell Pierce
+4 Lotus Petal
+4 Sneak Attack
+3 Island
+1 Mountain
+3 Ancient Tomb
+2 City of Traitors
+3 Flooded Strand
+4 Scalding Tarn
+3 Volcanic Island
+sideboard
+1 Grafdigger's Cage
+2 Flusterstorm
+1 Pyroblast
+1 Boseiju, Who Shelters All
+3 Blood Moon
+2 Omniscience
+3 Izzet Staticaster
+1 Sudden Shock
+1 Wipe Away

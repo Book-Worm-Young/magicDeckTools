@@ -1,0 +1,35 @@
+3 Jace, the Mind Sculptor
+4 Deathrite Shaman
+4 Noble Hierarch
+1 Tarmogoyf
+4 True-Name Nemesis
+2 Leovold, Emissary of Trest
+2 Ponder
+2 Thoughtseize
+4 Brainstorm
+3 Daze
+4 Force of Will
+1 Murderous Cut
+3 Abrupt Decay
+1 Umezawa's Jitte
+1 Sylvan Library
+1 Forest
+1 Island
+2 Tropical Island
+1 Bayou
+3 Underground Sea
+4 Misty Rainforest
+4 Polluted Delta
+2 Verdant Catacombs
+3 Wasteland
+sideboard
+1 Umezawa's Jitte
+1 Thoughtseize
+2 Submerge
+2 Pithing Needle
+2 Flusterstorm
+2 Mindbreak Trap
+1 Surgical Extraction
+2 Dread of Night
+1 Painful Truths
+1 Nihil Spellbomb

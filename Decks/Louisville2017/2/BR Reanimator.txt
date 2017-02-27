@@ -1,0 +1,27 @@
+4 Griselbrand
+4 Chancellor of the Annex
+1 Sire of Insanity
+1 Tidespout Tyrant
+4 Faithless Looting
+4 Thoughtseize
+4 Unmask
+4 Exhume
+4 Reanimate
+4 Entomb
+4 Dark Ritual
+4 Lotus Petal
+2 Chrome Mox
+4 Animate Dead
+4 Bloodstained Mire
+3 Polluted Delta
+1 Bayou
+2 Badlands
+2 Swamp
+sideboard
+4 Reverent Silence
+3 Abrupt Decay
+1 Grave Titan
+1 Iona, Shield of Emeria
+1 Elesh Norn, Grand Cenobite
+1 Inkwell Leviathan
+4 Collective Brutality

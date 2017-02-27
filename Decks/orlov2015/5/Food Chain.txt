@@ -1,0 +1,34 @@
+4 Polluted Delta
+3 Misty Rainforest
+3 Tropical Island
+3 Underground Sea
+2 Island
+2 Verdant Catacombs
+1 Bayou
+1 Forest
+1 Swamp
+4 Brainstorm
+4 Food Chain 
+4 Force of Will
+3 Abrupt Decay
+3 Manipulate Fate
+2 Thoughtseize
+1 Dimir Charm
+4 Baleful Strix
+4 Deathrite Shaman
+4 Misthollow Griffin
+4 Shardless Agent
+2 Fierce Empath
+1 Emrakul, the Aeons Torn
+sideboard
+2 Carpet of Flowers
+2 Flusterstorm
+2 Relic of Progenitus
+2 Vendilion Clique
+1 Disfigure
+1 Golgari Charm
+1 Misdirection
+1 Pithing Needle
+1 Swan Song
+1 Toxic Deluge
+1 Umezawa's Jitte

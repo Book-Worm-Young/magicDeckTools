@@ -1,0 +1,34 @@
+4 Deathrite Shaman
+4 Baleful Strix
+3 Leovold, Emissary of Trest
+3 Misthollow Griffin
+1 Eternal Scourge
+2 Fierce Empath
+1 Gurmag Angler
+1 Emrakul, the Aeons Torn
+3 Ponder
+3 Manipulate Fate
+4 Brainstorm
+3 Abrupt Decay
+4 Force of Will
+4 Food Chain
+1 Sylvan Library
+4 Polluted Delta
+4 Misty Rainforest
+3 Verdant Catacombs
+2 Underground Sea
+1 Tropical Island
+1 Bayou
+2 Island
+1 Swamp
+1 Forest
+sideboard
+1 Abrupt Decay
+4 Hymn to Tourach
+1 Darkblast
+1 Disfigure
+2 Toxic Deluge
+1 Collective Brutality
+2 Carpet of Flowers
+2 Surgical Extraction
+1 Flusterstorm

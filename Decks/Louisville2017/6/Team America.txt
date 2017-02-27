@@ -1,0 +1,30 @@
+2 Liliana of the Veil
+4 Deathrite Shaman
+4 Delver of Secrets
+4 Tarmogoyf
+1 Tombstalker
+4 Hymn to Tourach
+4 Ponder
+4 Brainstorm
+4 Daze
+1 Dismember
+4 Force of Will
+4 Abrupt Decay
+2 Bayou
+4 Misty Rainforest
+4 Polluted Delta
+1 Tropical Island
+4 Underground Sea
+4 Wasteland
+1 Verdant Catacombs
+sideboard
+2 Dead Weight
+2 Golgari Charm
+2 Jace, the Mind Sculptor
+1 Pithing Needle
+2 Thoughtseize
+2 Surgical Extraction
+1 Winter Orb
+1 Invasive Surgery
+1 Grafdigger's Cage
+1 Vendilion Clique

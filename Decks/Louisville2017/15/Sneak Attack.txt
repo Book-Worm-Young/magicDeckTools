@@ -1,0 +1,31 @@
+4 Griselbrand
+4 Emrakul, the Aeons Torn
+4 Ponder
+4 Preordain
+4 Show and Tell
+4 Brainstorm
+4 Spell Pierce
+4 Force of Will
+4 Lotus Petal
+4 Sneak Attack
+1 Omniscience
+4 Scalding Tarn
+1 Flooded Strand
+1 Polluted Delta
+1 Misty Rainforest
+3 Ancient Tomb
+2 City of Traitors
+1 Mountain
+3 Island
+3 Volcanic Island
+sideboard
+2 Engineered Explosives
+2 Blood Moon
+2 Grim Lavamancer
+2 Vendilion Clique
+2 Through the Breach
+1 Wipe Away
+1 Red Elemental Blast
+1 Pyroblast
+1 Elesh Norn, Grand Cenobite
+1 Vandalblast

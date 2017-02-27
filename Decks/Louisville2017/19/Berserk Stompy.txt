@@ -1,0 +1,39 @@
+4 Noble Hierarch
+4 Glistener Elf
+4 Blighted Agent
+3 Gitaxian Probe
+2 Ponder
+4 Brainstorm
+4 Invigorate
+1 Become Immense
+3 Vines of Vastwood
+1 Crop Rotation
+2 Berserk
+3 Force of Will
+4 Daze
+1 Spell Pierce
+1 Sylvan Library
+2 Misty Rainforest
+2 Windswept Heath
+1 Wooded Foothills
+3 Verdant Catacombs
+1 Wasteland
+4 Tropical Island
+1 Forest
+1 Pendelhaven
+4 Inkmoth Nexus
+sideboard
+1 Sylvan Library
+1 Force of Will
+2 Submerge
+1 Invasive Surgery
+1 Karakas
+1 Spellskite
+1 Dryad Arbor
+1 Blue Elemental Blast
+1 Flusterstorm
+1 Pithing Needle
+1 Krosan Grip
+1 Dismember
+1 Surgical Extraction
+1 Viridian Corrupter

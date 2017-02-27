@@ -1,0 +1,36 @@
+4 Deathrite Shaman
+4 Delver of Secrets
+3 Young Pyromancer
+2 Gurmag Angler
+1 Vendilion Clique
+4 Ponder
+4 Gitaxian Probe
+2 Cabal Therapy
+4 Brainstorm
+4 Force of Will
+4 Lightning Bolt
+4 Daze
+1 Spell Pierce
+1 Dismember
+3 Volcanic Island
+2 Underground Sea
+1 Tropical Island
+3 Scalding Tarn
+2 Flooded Strand
+2 Misty Rainforest
+1 Polluted Delta
+4 Wasteland
+sideboard
+1 Cabal Therapy
+2 Surgical Extraction
+1 Sulfuric Vortex
+1 Flusterstorm
+1 Pyroblast
+1 Winter Orb
+1 Dread of Night
+1 Fire Covenant
+1 Null Rod
+2 Baleful Strix
+1 Abrupt Decay
+1 Pithing Needle
+1 Ancient Grudge
