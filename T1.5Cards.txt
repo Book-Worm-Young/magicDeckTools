@@ -22,6 +22,7 @@ Arcbound Ravager
 Arctic Merfolk
 Argothian Enchantress
 Arid Mesa
+Armageddon
 Ashen Rider
 Ashiok, Nightmare Weaver
 Atraxa, Praetors' Voice
@@ -232,7 +233,7 @@ Firestorm
 Flagstones of Trokair
 Flame Rift
 Flame-Kin Zealot
-Flash of Insight 
+Flash of Insight
 Flayer of the Hatebound
 Flickerwisp
 Fling
@@ -552,6 +553,7 @@ Riftstone Portal
 Rishadan Port
 Rite of Consumption
 Rite of Flame
+Rogue's Passage
 Rough // Tumble
 Runed Halo
 Rushing River
@@ -703,7 +705,7 @@ Thought-Knot Seer
 Thoughtcast
 Thoughtseize
 Thragtusk
-Threads of Disloyalty 
+Threads of Disloyalty
 Through the Breach
 Thrun, the Last Troll
 Thunderbreak Regent
