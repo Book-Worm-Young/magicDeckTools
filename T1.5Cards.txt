@@ -105,6 +105,7 @@ Chrome Mox
 City of Brass
 City of Solitude
 City of Traitors
+Cloud of Faeries
 Cloudpost
 Coffin Purge
 Coiling Oracle
@@ -223,6 +224,7 @@ Eye of Ugin
 Faerie Conclave
 Faerie Macabre
 Faithless Looting
+Fatal Push
 Fierce Empath
 Fiery Confluence
 Fire // Ice
@@ -587,6 +589,7 @@ Shaman of the Pack
 Shambling Shell
 Shardless Agent
 Shattering Spree
+Shelldock Isle
 Shizo, Death's Storehouse
 Show and Tell
 Shriekmaw
@@ -768,6 +771,7 @@ Volcanic Island
 Volrath's Stronghold
 Vraska the Unseen
 Vryn Wingmare
+Walking Ballista
 Warmth
 Warping Wail
 Warren Weirding
