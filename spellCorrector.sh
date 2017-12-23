@@ -20,7 +20,7 @@ searchInData () {
 		suffix=$(echo ${missWord:$((length-2))})
 		mid=XXXXXXXXXXXX
 	fi
-	grep "^$prefix" $cardData | sort >.pre
+	grep -i "^$prefix" $cardData | sort >.pre
 	grep "$mid" $cardData | sort >.mid
 	grep "$suffix" $cardData | sort >.suf
 	echo $missWord >.temp
@@ -43,11 +43,22 @@ searchInData () {
 }
 
 search () {
-	missWord=$*
-	rm -f .needMoreSearch
-	searchInData "$missWord" names.utf-8
-	if [ -f .needMoreSearch ] ; then
-		searchInData "$missWord" names_all
+	cardName="$*"
+	cardNameLength=$(echo "${#cardName}")
+	exactMatch=$(grep "^$cardName\t" names_all)
+	length=$(echo ${#exactMatch})
+	if [ $length -lt 1 ] ; then
+		searchInData "$cardName" names_all >.results
+		cat .results | while read nameInfo ; do
+			enName=$(echo "$nameInfo" | awk 'BEGIN{FS="\t"}{print $1}')
+			enNameLength=$(echo ${#enName})
+			lengthDiff=$((cardNameLength - enNameLength))
+			if [ ${lengthDiff#-} -le 3 ] ; then
+				echo "$nameInfo"
+			fi
+		done
+	else
+		echo "$exactMatch"
 	fi
 }
 
@@ -57,8 +68,8 @@ if [ $# -lt 1 ] ; then
 fi
 
 if [ -f "$1" ] ; then
-	cat "$1" | while read missWord ; do
-		search $missWord
+	cat "$1" | while read cardName ; do
+		search $cardName
 	done
 else
 	search "$*"
