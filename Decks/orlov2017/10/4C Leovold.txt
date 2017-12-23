@@ -1,0 +1,44 @@
+10 Bosen,LI
+4C Leovold
+4 Scalding Tarn
+4 Polluted Delta
+3 Underground Sea
+2 Volcanic Island
+1 Bayou
+1 Tropical Island
+1 Badlands
+1 Bloodstained Mire
+1 Island
+1 Swamp
+4 Deathrite Shaman
+3 Baleful Strix
+2 Leovold, Emissary of Trest
+1 Tombstalker
+1 Notion Thief
+1 Snapcaster Mage
+3 Force of Will
+4 Brainstorm
+4 Ponder
+2 Hymn to Tourach
+1 Jace, the Mind Sculptor
+1 Dack Fayden
+1 Liliana, the Last Hope
+1 Toxic Deluge
+1 Murderous Cut
+1 Kolaghan's Command
+1 Diabolic Edict
+1 Reroute
+1 Abrupt Decay
+1 Cabal Therapy
+2 Fatal Push
+1 Lightning Bolt
+3 Gitaxian Probe
+Sideboard
+1 Force of Will
+2 Leyline of the Void
+1 Big Game Hunter
+1 Collective Brutality
+1 Snapback
+1 Sudden Shock
+1 Diabolic Edict
+2 Teferi's Response
